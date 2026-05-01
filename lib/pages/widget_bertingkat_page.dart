@@ -51,7 +51,7 @@ class WidgetBertingkatPage extends StatelessWidget {
                   ),
                   const SizedBox(height: 10),
                   const Text(
-                    'Contoh widget bertingkat dengan container, row, dan column yang saling bersarang.',
+                    'Contoh widget bertingkat.',
                     style: TextStyle(
                       color: Colors.white70,
                       fontSize: 15,
